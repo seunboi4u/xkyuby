@@ -2668,7 +2668,7 @@ def Follwww():
     raw_input('[Press Enter To Exit]');webbrowser.open_new_tab('https://www.youtube.com/channel/M4rkWalker');webbrowser.open_new_tab('https://www.facebook.com/amir.othman.official');webbrowser.open_new_tab('https://www.facebook.com/meliodas404');exit()
 update_____________A="infintyW4r4000000000004"
 def mli7(): 
- """ if not os.path.isdir('results/'):
+ if not os.path.isdir('results/'):
       os.mkdir('results/')
  else:
       pass
@@ -2676,10 +2676,10 @@ def mli7():
    zz=requests.get('https://raw.githubusercontent.com/0xtn/xkyuby/master/code.py')
    if update_____________A not in zz.text.encode('utf-8'):
     print "{r} Alert ! New Update For This Tool ... Bug Fixed & Some Tools Added ... \n{y}Please Contact The Coders \n{r} If You Buy This Tool From Seller You Can Receive Update (price : 2$)".format(r=la7mar,g=la5dhar,y=la7mar,re=ramadi)
-    time.sleep(3);os.remove(sys.argv[0]);os.remove(os.getcwd())
+    time.sleep(5);os.remove(sys.argv[0]);os.remove(os.getcwd())
  except:
             pass
-"""
+
  print """\n{y}
    __    __  __                            __                       
   /  |  /  |/  |                          /  |                      
